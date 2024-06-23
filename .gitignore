@@ -1,0 +1,7 @@
+media
+logs
+
+access.db
+
+*.ljbc
+**/*.ljbc
